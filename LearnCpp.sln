@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AddTwoNumbers", "AddTwoNumb
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PrintWithParams", "PrintWithParams\PrintWithParams.vcxproj", "{476FCCC5-B6B1-47DB-850D-34D32713B1DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IntDoubler", "IntDoubler\IntDoubler.vcxproj", "{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{476FCCC5-B6B1-47DB-850D-34D32713B1DF}.Release|x64.Build.0 = Release|x64
 		{476FCCC5-B6B1-47DB-850D-34D32713B1DF}.Release|x86.ActiveCfg = Release|Win32
 		{476FCCC5-B6B1-47DB-850D-34D32713B1DF}.Release|x86.Build.0 = Release|Win32
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Debug|x64.ActiveCfg = Debug|x64
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Debug|x64.Build.0 = Debug|x64
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Debug|x86.Build.0 = Debug|Win32
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Release|x64.ActiveCfg = Release|x64
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Release|x64.Build.0 = Release|x64
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Release|x86.ActiveCfg = Release|Win32
+		{37EDED84-2926-4BDA-9EB5-D805DD7B0FBE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
