@@ -4,6 +4,7 @@
 #include "stdafx.h"
 #include <iostream>
 
+//returns an input from the user.0
 int getValFromUser()
 {
 	std::cout << "Enter a number: ";
